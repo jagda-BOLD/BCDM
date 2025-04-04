@@ -52,3 +52,13 @@ The [definitions](field_definitions.tsv) format for the current supported fields
 
 - Add required fields
 - Add regex rules for basic validation
+
+
+## Funding Acknowledgements
+
+This project was made possible through the support of:
+
+- Canada Foundation for Innovation Major Science Iniatives Fund (MSIF)
+- Genome Canada & Ontario Genomics
+- Ontario Ministry of Colleges and Universities
+- New Frontiers in Research Fund (NFRF)-Transformation
