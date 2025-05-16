@@ -1,8 +1,9 @@
 country/ocean	iso_alpha3_code	iso_alpha2_code
 Afghanistan	AFG	AF
-Aland Islands	ALA	AX
+Aland	ALA	AX
 Albania	ALB	AL
 Algeria	DZA	DZ
+American Samoa	ASM	AS
 Andorra	AND	AD
 Angola	AGO	AO
 Anguilla	AIA	AI
@@ -27,9 +28,10 @@ Benin	BEN	BJ
 Bermuda	BMU	BM
 Bhutan	BTN	BT
 Bolivia	BOL	BO
-Bonaire, Sint Eustatius and Saba	BES	
+Bonaire, Sint Eustatius, and Saba	BES	BQ
 Bosnia and Herzegovina	BIH	BA
 Botswana	BWA	BW
+Bouvet Island	BVT	BV
 Brazil	BRA	BR
 British Indian Ocean Territory	IOT	IO
 British Virgin Islands	VGB	VG
@@ -47,6 +49,8 @@ Central African Republic	CAF	CF
 Chad	TCD	TD
 Chile	CHL	CL
 China	CHN	CN
+Christmas Island	CXR	CX
+Cocos (Keeling) Islands	CCK	CC
 Colombia	COL	CO
 Comoros	COM	KM
 Cook Islands	COK	CK
@@ -64,7 +68,7 @@ Dominican Republic	DOM	DO
 Ecuador	ECU	EC
 Egypt	EGY	EG
 El Salvador	SLV	SV
-Equatorial Guinea	GNQ	GQ  
+Equatorial Guinea	GNQ	GQ
 Eritrea	ERI	ER
 Estonia	EST	EE
 Eswatini	SWZ	SZ
@@ -82,6 +86,7 @@ Finland	FIN	FI
 France	FRA	FR
 French Guiana	GUF	GF
 French Polynesia	PYF	PF
+French Southern Territories	ATF	TF
 Gabon	GAB	GA
 Gambia	GMB	GM
 Georgia	GEO	GE
@@ -99,6 +104,7 @@ Guinea	GIN	GN
 Guinea-Bissau	GNB	GW
 Guyana	GUY	GY
 Haiti	HTI	HT
+Heard and McDonald Islands	HMD	HM
 Honduras	HND	HN
 Hungary	HUN	HU
 Iceland	ISL	IS
@@ -174,6 +180,7 @@ Oman	OMN	OM
 Pacific Ocean		
 Pakistan	PAK	PK
 Palau	PLW	PW
+Palestine	PSE	PS
 Panama	PAN	PA
 Papua New Guinea	PNG	PG
 Paraguay	PRY	PY
@@ -189,9 +196,12 @@ Reunion	REU	RE
 Romania	ROU	RO
 Russia	RUS	RU
 Rwanda	RWA	RW
-Saint Helena Ascension and Tristan da Cunha	SHN	SH
+Saint Barthelemy	BLM	BL
+Saint Helena	SHN	SH
 Saint Kitts and Nevis	KNA	KN
 Saint Lucia	LCA	LC
+Saint Martin	MAF	MF
+Saint Pierre and Miquelon	SPM	PM
 Saint Vincent and the Grenadines	VCT	VC
 Samoa	WSM	WS
 San Marino	SMR	SM
@@ -209,7 +219,7 @@ Solomon Islands	SLB	SB
 Somalia	SOM	SO
 South Africa	ZAF	ZA
 South Atlantic Ocean		
-South Georgia and the South Sandwich Islands	SGS	GS
+South Georgia and South Sandwich Islands	SGS	GS
 South Korea	KOR	KR
 South Pacific Ocean		
 South Sudan	SSD	SS
@@ -219,7 +229,7 @@ Spratly Islands	XSP
 Sri Lanka	LKA	LK
 Sudan	SDN	SD
 Suriname	SUR	SR
-Svalbard and Jan Mayen	SJM	
+Svalbard and Jan Mayen	SJM	SJ
 Sweden	SWE	SE
 Switzerland	CHE	CH
 Syria	SYR	SY
@@ -235,22 +245,25 @@ Trinidad and Tobago	TTO	TT
 Tunisia	TUN	TN
 Turkey	TUR	TR
 Turkmenistan	TKM	TM
+Turks and Caicos Islands	TCA	TC
 Tuvalu	TUV	TV
 Uganda	UGA	UG
 Ukraine	UKR	UA
 United Arab Emirates	ARE	AE
 United Kingdom	GBR	GB
 United States	USA	US
+United States Minor Outlying Islands	UMI	UM
 United States Virgin Islands	VIR	VI
 Unrecoverable		
 Unspecified country		
 Uruguay	URY	UY
 Uzbekistan	UZB	UZ
 Vanuatu	VUT	VU
-Vatican City	VAT	
+Vatican City	VAT	VT
 Venezuela	VEN	VE
 Vietnam	VNM	VN
-Western Sahara	ESH	
+Wallis and Futuna	WLF	WF
+Western Sahara	ESH	EH
 Yemen	YEM	YE
 Zambia	ZMB	ZM
 Zimbabwe	ZWE	ZW
