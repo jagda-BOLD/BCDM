@@ -1,4 +1,4 @@
-# Barcode Core Data Model(BCDM)
+# Barcode Core Data Model(BCDM) -
 <br>
 This repository hosts the reference implementation of the Barcode Core Data Model, a standardized format aimed at significantly enhancing the organization, sharing, and utilization of DNA barcode data within the biodiversity science community. The model defines key terms and their definitions for describing crucial details about DNA barcodes, including sequences, specimens, taxonomic names, locations, dates, and related metadata. Furthermore, the repository includes mappings to other data standards commonly used in the biodiversity community. It serves as a basis for developing analytical tools, databases, and resources leveraging DNA barcode data, thus enabling new avenues for research and education.
 <br>
